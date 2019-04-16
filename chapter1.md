@@ -15,7 +15,7 @@ skills: 2
 ```
 
 changed test
-This is the assignment text. It should help provide students with the background information needed.
+This is the assignment text. It shouald help provide students with the background information needed.
 The instructions that follow should be in bullet point form with clear guidance for what is expected.
 
 `@instructions`
