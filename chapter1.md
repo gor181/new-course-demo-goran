@@ -15,8 +15,8 @@ skills: 2
 ```
 
 changed testa
-This is the assignment text. It shouald help provide students with the background information needed.
-The instructions that follow should be ina bullet point form with clear guidance for what is expected.
+This is the assignment text. It shouald help proaaavide students with the background information needed.
+The instructiaaaaons that follow should be ina bullet point form with clear guidance for what is expected.
 
 `@instructions`
 - Instruction 1
